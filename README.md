@@ -2,7 +2,9 @@
 MatConvNet installation on Windows 10, Matlab 2019b
 
 lien1: https://hackmd.io/@ag7c/r14cjQ1b8
+
 lien2: https://learn.microsoft.com/en-us/cpp/build/vscpp-step-0-installation?view=msvc-170
+
 lien3: https://fr.mathworks.com/matlabcentral/answers/443349-how-do-i-install-visual-studio-for-use-with-matlab-simulink
 lien4: https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/sysreq/files/system-requirements-release-2022b-supported-compilers.pdf
 lien5: https://basiccomputationaltools.blogspot.com/2017/08/compile-matconvnet-on-windows.html
